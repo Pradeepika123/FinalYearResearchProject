@@ -1,0 +1,33 @@
+===================================================
+Main Objective
+===================================================
+* How to track the changes in resting hours using surveillance camera video feed?
+
+
+===================================================
+Individual Research Question
+===================================================
+**Resting Pattern Recognition -IT17123150**
+
+The main research problem in the resting behavior changes recognition research component, is to track resting pattern changes in the dog using a surveillance camera and notify the dog owner about the unusual changes through the mobile application.
+
+In summary, the following are the research problems that will be addressed through the proposed system:
+* 	How can sensors and computer vision be combined to track dogs’ behavioral changes?
+* 	Check whether our pet dog has the appropriate behavior according to its breed and to its age?
+*   	How to track the changes in resting hours using surveillance camera video feed?
+
+
+==================================================
+Individual Objectives
+==================================================
+**Resting Pattern Recognition -IT17123150**
+
+
+The main objective of the resting behavior changes recognition research component is to make the system capable of tracking and analyzing the resting patterns of the pet dog according to its breed and age.
+The main objective in the proposed research component will be covered with the assistance of the following specific sub-objectives:
+* 	Sub-Objective 1: Track the total resting hours of the dog from surveillance camera video feed.
+*	Sub-Objective 2: Find mean resting hours using video feed resting hours and sensor resting hours. 
+* 	Sub-Objective 2: Compare the calculated mean resting hours with the average number of resting hours of dog based on its breed and age.
+* 	Sub-Objective 3: Notify the dog owner about the unusual changes in the resting pattern of the dog.
+* 	Sub-Objective 4: Add the analysis of the resting behavior of the dog to the daily report.
+
